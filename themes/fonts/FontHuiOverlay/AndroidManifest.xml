@@ -26,6 +26,6 @@
     <application android:label="@string/font_hui_overlay" android:hasCode="false">
         <meta-data
             android:name="android.theme.customization.REQUIRED_SYSTEM_FONTS"
-            android:value="hui" />
+            android:value="hui,hui-semi-bold,hui-bold,hui-light,hui-medium" />
     </application>
 </manifest>
